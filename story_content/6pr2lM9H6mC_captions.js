@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%206.85.31840.0%0D%0A%0D%0A00:00:00.065%20--%3E%2000:00:06.064%0D%0ADie%20Umsetzung%20des%20Standards%20wird%20damit%20zu%20einer%20leitungs-%20und%20gesamtbetrieblichen%20Aufgabe.%0D%0A%0D%0A"}')
